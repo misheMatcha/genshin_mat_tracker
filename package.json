@@ -4,7 +4,8 @@
 	"description": "To help tracker ascension materials in Genshin Impact",
 	"main": "index.js",
 	"scripts": {
-		"client": "npm run start --prefix client/"
+		"client": "npm run start --prefix client/",
+		"deploy": "npm install --prefix client && npm run build --prefix client"
 	},
 	"repository": {
 		"type": "git",
