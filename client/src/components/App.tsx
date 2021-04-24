@@ -12,7 +12,7 @@ const App = () => {
 
 	return (
 		<div className={classes.container}>
-			<div>App</div>
+			<div>Work In Progress</div>
 		</div>
 	)
 }
