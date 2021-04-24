@@ -1,0 +1,20 @@
+{
+	"name": "genshin_tracker",
+	"version": "1.0.0",
+	"description": "To help tracker ascension materials in Genshin Impact",
+	"main": "index.js",
+	"scripts": {
+		"client": "npm run start --prefix client/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/misheMatcha/genshin_tracker.git"
+	},
+	"keywords": [],
+	"author": "Michelle Vong",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/misheMatcha/genshin_tracker/issues"
+	},
+	"homepage": "https://github.com/misheMatcha/genshin_tracker#readme"
+}
